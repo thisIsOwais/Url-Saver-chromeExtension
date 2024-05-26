@@ -63,6 +63,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 - [MOHD OWAIS ANSARI](https://github.com/thisIsOwais)
 
-## Acknowledgments
 
-Special thanks to [Organization/Person Name] for their contributions and support.
