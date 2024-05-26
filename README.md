@@ -17,7 +17,7 @@ URL Saver is a Chrome extension that allows users to save the URL of the current
   - Next.js (deployed on Vercel)
 - **Backend:**
   - Firebase Database
-
+  -Node.js
 ## Installation
 
 To install the Chrome extension, follow these steps:
@@ -39,7 +39,7 @@ Once installed, use the extension as follows:
 NOTE:
 In popup.js url data is posted to save to firebase database , we cant directly integrate firebase api to chrome extension ,
 we have to make separate node.js app for api and deployed at render
-You can access it's code  [here](https://github.com/thisIsOwais/chromeExtension-firebase-api.git).
+You can access it's code  [here](https://github.com/thisIsOwais/chromeExtension-firebase-api/tree/master).
 
 ## Deployed App
 
