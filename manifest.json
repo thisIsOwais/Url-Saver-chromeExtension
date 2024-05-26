@@ -1,0 +1,16 @@
+{
+    "name": "Polymath",
+    "description": "Polymath",
+    "version": "2.0",
+    "manifest_version": 3,
+  
+    "action": {
+      "default_popup": "popup.html",
+      "scripts": ["popup.js"]
+    
+    },
+    "permissions": [
+        "tabs",
+        "activeTab"
+      ]
+}
